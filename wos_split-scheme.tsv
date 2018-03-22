@@ -1,0 +1,39 @@
+scopus	wos	standard	pub	jrn-prn	au-affil	cit	txt	fund
+		pub-uid	1	1	1	1	1	1
+		pub-nid	1					
+	AF	au-full			1			
+Authors	AU	au-short			1			
+Title	TI	pub-full					1	
+Year	PY	year	1					
+	PD	month	1					
+Source title	SO	jrn-full		1				
+Volume								
+Issue								
+Art. No.								
+Page start								
+Page end								
+Page count	PG	pages	1					
+Cited by	Z9	cited-by	1					
+DOI	DI	doi	1					
+Link								
+Affiliations								
+Authors with affiliations	C1	au-affil			1			
+Abstract	AB	abstract					1	
+Author Keywords	DE	key-au					1	
+Index Keywords	ID	key-pub					1	
+Funding Details	FU	fund-detail						1
+Funding Text	FX	fund-text						1
+References	CR	citations				1		
+Correspondence Address								
+Editors								
+Publisher	PU	prn		1				
+ISSN	SN	jrn-issn		1				
+ISBN								
+CODEN								
+PubMed ID	PM	pubmed	1					
+Language of Original Document	LA	lang	1					
+Abbreviated Source Title	J9	jrn-short		1				
+Document Type	DT	type	1					
+Source								
+EID								
+	OI	orcid			1			
